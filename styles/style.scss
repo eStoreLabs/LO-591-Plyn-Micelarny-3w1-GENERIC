@@ -280,9 +280,9 @@ $pink: #d1397f;
 
     &__right {
       max-width: 498px;
-      background: url("../images/formula-right.png") no-repeat;
       background-size: auto;
       background-position: center;
+      background-repeat: no-repeat;
       display: flex;
       flex-wrap: wrap;
       justify-content: space-around;
